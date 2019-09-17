@@ -44,6 +44,7 @@ public class MainClass {
 			if(rowAffected>0)
 			{
 				System.out.println("record deleted");
+				System.out.println("edited by sovember :)");//Panchami Anand
 			}
 			
 
