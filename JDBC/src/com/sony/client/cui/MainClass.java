@@ -45,6 +45,7 @@ public class MainClass {
 			{
 				System.out.println("record deleted");
 				System.out.println("edited by sovember :)");//Panchami Anand
+				System.out.println("edited by sovember :)");//Yeshaswini
 			}
 			
 
@@ -69,6 +70,8 @@ public class MainClass {
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
+				
+				
 			}
 		}
 		
